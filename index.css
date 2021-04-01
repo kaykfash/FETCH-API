@@ -1,0 +1,30 @@
+body{
+   background-color: #FFA500;
+}
+
+
+.main-body{
+    height: 50px;
+    text-align: center;
+}
+h1{
+    margin-left: 70px;
+    color:#f5f5dc;
+}
+
+button{
+    padding: 10px;
+    width: 100px;
+    border: none;
+    background-color: #f5f5dc;
+    font-size: larger;
+    margin-right: 100px;
+    
+}
+
+
+button:hover{
+    background:	#FFFF00;
+    border: none;
+    cursor: pointer;
+}
